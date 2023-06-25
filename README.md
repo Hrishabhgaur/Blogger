@@ -1,2 +1,2 @@
 # Blogger
-Used basic Html and Css.
+Use basic Html and Css.
